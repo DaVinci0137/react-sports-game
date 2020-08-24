@@ -107,7 +107,7 @@ function App(props) {
 
     const mongooses = {
         name: 'Orlando Mongooses',
-        logoSrc: '.assets/teamFourMongoose.gif'
+        logoSrc: './assets/teamFourMongoose.gif'
     }
 
     return (
